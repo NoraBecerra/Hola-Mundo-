@@ -1,0 +1,2 @@
+Este es un archivo de prueba, para comprobar como se pueden crear archivos, 
+que solamente pueden ser de código o de texto.
